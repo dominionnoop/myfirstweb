@@ -21,7 +21,7 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    /*background: red;*/
+    /*background: #7a71f5;*/
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -102,7 +102,7 @@ header {
 }
 .form-box h2 {
     font-size: 2em;
-    color: #162938;
+    color: rgb(241, 241, 241);
     text-align: center;
 }
 
@@ -128,7 +128,7 @@ header {
 }
 
 .input-box input:focus~label,
-.input-box input:valid~label{
+.input-box input:valid~label {
     top: -5px;
 }
 
